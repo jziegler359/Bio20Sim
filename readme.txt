@@ -1,1 +1,1 @@
-You should just be able to download this whole folder and run the Index.Html and it should all work for you hopfully 
+This Repo has an animation for the Calvin cycle part of photosynthesis. You can download the Repo and run index.html or go to https://jziegler359.github.io/ to veiw it. This project was built incrementally over a week for the hackclub terra program check it out here (https://terra.hackclub.com/r/47TX). About half of this project was learning basic website devolment and the other half was circle geometry which is pretty fun to learn. 
